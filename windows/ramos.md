@@ -5,3 +5,7 @@ Como aumentar o FPS do seu PC Gami com LED
 Adicionar 10 LED's RGB no seu processador AMD, não precisa documentação
 
 Placa de Vídeo, isso é lenda, só o RGB LED resolve o FPS.
+
+Leandro Ramos ainda vai usar o Linux e vai
+
+largar o Ruwindows.
