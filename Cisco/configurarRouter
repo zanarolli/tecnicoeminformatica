@@ -42,3 +42,6 @@ ping 192.168.1.251
 telnet 192.168.1.254
 telnet 192.168.1.250
 telnet 192.168.1.251
+ssh -l senac 192.168.1.254
+ssh -l senac 192.168.1.250
+ssh -l senac 192.168.1.251
