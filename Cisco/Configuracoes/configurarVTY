@@ -19,7 +19,7 @@ enable
 
 			!Habilitando a senha de acesso do Tipo-7 Password (senha fraca)
 			!DICA: igual na configuração da Line Console, essa regra só irá funcionar se não existir usuários no Switch
-			password enrico@123
+			password 123@senac
 
 			!Habilitando o sincronismo das mensagens de Logs na tela do terminal do Cisco IOS
 			logging synchronous
@@ -63,7 +63,7 @@ enable
 			login local
 
 			!Habilitando senha de acesso do Tipo-7 Password
-			password enrico@123
+			password 123@senac
 
 			!Sincronizando as mensagens de logs na tela
 			logging synchronous
